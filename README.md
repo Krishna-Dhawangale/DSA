@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Krishna-Dhawangale/DSA/tree/master/0997-find-the-town-judge) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Krishna-Dhawangale/DSA/tree/master/0997-find-the-town-judge) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Krishna-Dhawangale/DSA/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
