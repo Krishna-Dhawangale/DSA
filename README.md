@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Krishna-Dhawangale/DSA/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
