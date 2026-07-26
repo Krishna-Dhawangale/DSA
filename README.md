@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Krishna-Dhawangale/DSA/tree/master/0290-word-pattern) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Krishna-Dhawangale/DSA/tree/master/0290-word-pattern) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Array
 |  |
