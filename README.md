@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Krishna-Dhawangale/DSA/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/Krishna-Dhawangale/DSA/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/Krishna-Dhawangale/DSA/tree/master/0577-employee-bonus) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Krishna-Dhawangale/DSA/tree/master/1517-find-users-with-valid-e-mails) |
