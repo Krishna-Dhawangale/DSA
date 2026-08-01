@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/0896-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1089-duplicate-zeros](https://github.com/Krishna-Dhawangale/DSA/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krishna-Dhawangale/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krishna-Dhawangale/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [1089-duplicate-zeros](https://github.com/Krishna-Dhawangale/DSA/tree/master/1089-duplicate-zeros) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Krishna-Dhawangale/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
 |  |
