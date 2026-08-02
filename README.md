@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Krishna-Dhawangale/DSA/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishna-Dhawangale/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Krishna-Dhawangale/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Krishna-Dhawangale/DSA/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna-Dhawangale/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Krishna-Dhawangale/DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/0896-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1089-duplicate-zeros](https://github.com/Krishna-Dhawangale/DSA/tree/master/1089-duplicate-zeros) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krishna-Dhawangale/DSA/tree/master/0042-trapping-rain-water) |
+| [0877-stone-game](https://github.com/Krishna-Dhawangale/DSA/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krishna-Dhawangale/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Krishna-Dhawangale/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
