@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Krishna-Dhawangale/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/Krishna-Dhawangale/DSA/tree/master/0290-word-pattern) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Krishna-Dhawangale/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Krishna-Dhawangale/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Krishna-Dhawangale/DSA/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Krishna-Dhawangale/DSA/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna-Dhawangale/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Krishna-Dhawangale/DSA/tree/master/0877-stone-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Krishna-Dhawangale/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
