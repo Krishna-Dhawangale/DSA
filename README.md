@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/Krishna-Dhawangale/DSA/tree/master/0290-word-pattern) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Krishna-Dhawangale/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1768-merge-strings-alternately](https://github.com/Krishna-Dhawangale/DSA/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Krishna-Dhawangale/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
