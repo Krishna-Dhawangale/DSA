@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Krishna-Dhawangale/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Krishna-Dhawangale/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krishna-Dhawangale/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3731-find-missing-elements](https://github.com/Krishna-Dhawangale/DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Krishna-Dhawangale/DSA/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krishna-Dhawangale/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3731-find-missing-elements](https://github.com/Krishna-Dhawangale/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
