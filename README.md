@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Krishna-Dhawangale/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Krishna-Dhawangale/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Krishna-Dhawangale/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Krishna-Dhawangale/DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishna-Dhawangale/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krishna-Dhawangale/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Krishna-Dhawangale/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Krishna-Dhawangale/DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krishna-Dhawangale/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/Krishna-Dhawangale/DSA/tree/master/3731-find-missing-elements) |
