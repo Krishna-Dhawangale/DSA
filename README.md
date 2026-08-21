@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Krishna-Dhawangale/DSA/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Krishna-Dhawangale/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Krishna-Dhawangale/DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Krishna-Dhawangale/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Krishna-Dhawangale/DSA/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krishna-Dhawangale/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Krishna-Dhawangale/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Krishna-Dhawangale/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/0345-reverse-vowels-of-a-string) |
