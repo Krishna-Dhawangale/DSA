@@ -1,31 +1,17 @@
-from typing import List
-from collections import Counter
-
 class Solution:
     def largestInteger(self, nums: List[int], k: int) -> int:
-        n = len(nums)
-
-        if k == n:
+        if k==len(nums):
             return max(nums)
 
-        counts = Counter(nums)
+        if k==1:
+            for val in sorted(nums, reverse=True):          
+                if nums.count(val) == 1:
+                    return val        
+            return -1
 
-        if k == 1:
-            unique_num = []
-            for num, freq in counts.items():
-                if freq == 1:
-                    unique_num.append(num)
-
-            if len(unique_num) > 0:
-                return max(unique_num)
-            else:
-                return -1
-
-        ans = -1
-        if counts[nums[0]] == 1:
-            ans = max(ans, nums[0])
-        if counts[nums[-1]] == 1:
-            ans = max(ans,  nums[-1])
-
-        return ans
+        if k<len(nums):
+            for val in sorted([nums[0], nums[-1]], reverse=True):
+                if nums.count(val) == 1:
+                    return val        
+            return -1
 
