@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Krishna-Dhawangale/DSA/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Krishna-Dhawangale/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Krishna-Dhawangale/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Krishna-Dhawangale/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
