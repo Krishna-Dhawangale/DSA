@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Krishna-Dhawangale/DSA/tree/master/0043-multiply-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Krishna-Dhawangale/DSA/tree/master/0877-stone-game) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/0002-add-two-numbers) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/Krishna-Dhawangale/DSA/tree/master/2206-divide-array-into-equal-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
