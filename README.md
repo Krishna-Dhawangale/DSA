@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Krishna-Dhawangale/DSA/tree/master/0877-stone-game) |
 | [1925-count-square-sum-triples](https://github.com/Krishna-Dhawangale/DSA/tree/master/1925-count-square-sum-triples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishna-Dhawangale/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3270-find-the-key-of-the-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krishna-Dhawangale/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Krishna-Dhawangale/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Krishna-Dhawangale/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
