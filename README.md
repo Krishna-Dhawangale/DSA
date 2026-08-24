@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Krishna-Dhawangale/DSA/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Krishna-Dhawangale/DSA/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Krishna-Dhawangale/DSA/tree/master/0877-stone-game) |
 | [1925-count-square-sum-triples](https://github.com/Krishna-Dhawangale/DSA/tree/master/1925-count-square-sum-triples) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Krishna-Dhawangale/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Krishna-Dhawangale/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Krishna-Dhawangale/DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Krishna-Dhawangale/DSA/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krishna-Dhawangale/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Krishna-Dhawangale/DSA/tree/master/0048-rotate-image) |
 | [0766-toeplitz-matrix](https://github.com/Krishna-Dhawangale/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Krishna-Dhawangale/DSA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Krishna-Dhawangale/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
