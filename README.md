@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Krishna-Dhawangale/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Krishna-Dhawangale/DSA/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Krishna-Dhawangale/DSA/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Krishna-Dhawangale/DSA/tree/master/0179-largest-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Krishna-Dhawangale/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Krishna-Dhawangale/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Krishna-Dhawangale/DSA/tree/master/0234-palindrome-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Krishna-Dhawangale/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
