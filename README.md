@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Krishna-Dhawangale/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Krishna-Dhawangale/DSA/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Krishna-Dhawangale/DSA/tree/master/1527-patients-with-a-condition) |
+| [1729-find-followers-count](https://github.com/Krishna-Dhawangale/DSA/tree/master/1729-find-followers-count) |
 | [3436-find-valid-emails](https://github.com/Krishna-Dhawangale/DSA/tree/master/3436-find-valid-emails) |
 ## Heap (Priority Queue)
 |  |
