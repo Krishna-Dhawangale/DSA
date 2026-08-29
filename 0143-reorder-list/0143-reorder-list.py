@@ -9,7 +9,7 @@ class Solution:
         Do not return anything, modify head in-place instead.
         """
         if not head and not head.next:
-            return 
+            return None
 
         slow = head
         fast = head
@@ -17,12 +17,12 @@ class Solution:
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
-
-        second = slow.next
+        
+        second_ll = slow.next
         slow.next = None
 
         prev = None
-        curr = second
+        curr = second_ll
 
         while curr:
             nxt = curr.next
@@ -30,15 +30,15 @@ class Solution:
             prev = curr
             curr = nxt
 
-        first = head
-        second = prev
+        first_ll = head
+        second_ll = prev
 
-        while second:
-            left = first.next
-            right = second.next
+        while second_ll:
+            left = first_ll.next
+            right = second_ll.next
 
-            first.next = second
-            second.next = left
+            first_ll.next = second_ll
+            second_ll.next = left
 
-            first = left
-            second = right
+            first_ll = left
+            second_ll = right
