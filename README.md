@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Krishna-Dhawangale/DSA/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-Dhawangale/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Krishna-Dhawangale/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Krishna-Dhawangale/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Krishna-Dhawangale/DSA/tree/master/2367-number-of-arithmetic-triplets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/Krishna-Dhawangale/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1189-maximum-number-of-balloons](https://github.com/Krishna-Dhawangale/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Krishna-Dhawangale/DSA/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Krishna-Dhawangale/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Krishna-Dhawangale/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 ## Recursion
 |  |
