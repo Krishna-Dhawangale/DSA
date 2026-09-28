@@ -1,4 +1,3 @@
-from collections import deque
 class MyStack:
 
     def __init__(self):
@@ -12,8 +11,9 @@ class MyStack:
         while len(self.q1) > 1:
             self.q2.append(self.q1.popleft())
         val = self.q1.popleft()
-        self.q1,self.q2 = self.q2, deque()
+        self.q1,self.q2 = self.q2,deque()
         return val
+
 
     def top(self) -> int:
         while len(self.q1) > 1:
@@ -25,6 +25,7 @@ class MyStack:
 
     def empty(self) -> bool:
         return not self.q1
+        
 
 
 # Your MyStack object will be instantiated and called as such:
