@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Krishna-Dhawangale/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Krishna-Dhawangale/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Krishna-Dhawangale/DSA/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/Krishna-Dhawangale/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Krishna-Dhawangale/DSA/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krishna-Dhawangale/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -314,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Krishna-Dhawangale/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Krishna-Dhawangale/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Krishna-Dhawangale/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
