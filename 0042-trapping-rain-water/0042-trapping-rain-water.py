@@ -1,12 +1,12 @@
 class Solution:
-    def trap(self, height: List[int]) -> int:
+    def trap(self, height: list[int]) -> int:
         left = 0
         right = len(height) - 1
         left_max = height[left]
         right_max = height[right]
         water = 0
 
-        while left < right:
+        while left <  right:
             if left_max < right_max:
                 left += 1
 
@@ -17,7 +17,6 @@ class Solution:
                 right -= 1
 
                 right_max = max(right_max, height[right])
-                water += right_max - height[right]
+                water += right_max - height[right] 
 
         return water
-
