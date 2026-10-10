@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Krishna-Dhawangale/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2090-k-radius-subarray-averages](https://github.com/Krishna-Dhawangale/DSA/tree/master/2090-k-radius-subarray-averages) |
+| [2104-sum-of-subarray-ranges](https://github.com/Krishna-Dhawangale/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Krishna-Dhawangale/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Krishna-Dhawangale/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -160,12 +161,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Krishna-Dhawangale/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krishna-Dhawangale/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/Krishna-Dhawangale/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krishna-Dhawangale/DSA/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0503-next-greater-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Krishna-Dhawangale/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Database
 |  |
 | ------- |
