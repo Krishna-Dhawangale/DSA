@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Krishna-Dhawangale/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Krishna-Dhawangale/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Krishna-Dhawangale/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krishna-Dhawangale/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Krishna-Dhawangale/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Krishna-Dhawangale/DSA/tree/master/1925-count-square-sum-triples) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Krishna-Dhawangale/DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Krishna-Dhawangale/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krishna-Dhawangale/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Linked List
 |  |
