@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Krishna-Dhawangale/DSA/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Krishna-Dhawangale/DSA/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/Krishna-Dhawangale/DSA/tree/master/0402-remove-k-digits) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Krishna-Dhawangale/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Krishna-Dhawangale/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Krishna-Dhawangale/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Krishna-Dhawangale/DSA/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Krishna-Dhawangale/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Krishna-Dhawangale/DSA/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Krishna-Dhawangale/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krishna-Dhawangale/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krishna-Dhawangale/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Krishna-Dhawangale/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Krishna-Dhawangale/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Database
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Krishna-Dhawangale/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Krishna-Dhawangale/DSA/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Krishna-Dhawangale/DSA/tree/master/0402-remove-k-digits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Krishna-Dhawangale/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishna-Dhawangale/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
