@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Krishna-Dhawangale/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Krishna-Dhawangale/DSA/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Krishna-Dhawangale/DSA/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/Krishna-Dhawangale/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krishna-Dhawangale/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Krishna-Dhawangale/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Krishna-Dhawangale/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Krishna-Dhawangale/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Krishna-Dhawangale/DSA/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/Krishna-Dhawangale/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Database
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Krishna-Dhawangale/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Krishna-Dhawangale/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/Krishna-Dhawangale/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -353,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krishna-Dhawangale/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Krishna-Dhawangale/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
