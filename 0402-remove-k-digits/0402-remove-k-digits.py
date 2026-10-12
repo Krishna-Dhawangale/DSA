@@ -6,8 +6,8 @@ class Solution:
                 st.pop()
                 k -= 1
             st.append(i)
-
-        st = st[: len(st) - k]
+        if k > 0:
+            st = st[: - k]
 
         start = 0
         while start < len(st) and st[start] == "0":
