@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Krishna-Dhawangale/DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Krishna-Dhawangale/DSA/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Krishna-Dhawangale/DSA/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/Krishna-Dhawangale/DSA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Krishna-Dhawangale/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna-Dhawangale/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Krishna-Dhawangale/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Krishna-Dhawangale/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Krishna-Dhawangale/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Krishna-Dhawangale/DSA/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Krishna-Dhawangale/DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Krishna-Dhawangale/DSA/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/Krishna-Dhawangale/DSA/tree/master/0290-word-pattern) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Krishna-Dhawangale/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Krishna-Dhawangale/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Krishna-Dhawangale/DSA/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krishna-Dhawangale/DSA/tree/master/0084-largest-rectangle-in-histogram) |
