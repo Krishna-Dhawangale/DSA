@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna-Dhawangale/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Krishna-Dhawangale/DSA/tree/master/0547-number-of-provinces) |
 ## Greedy
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krishna-Dhawangale/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Krishna-Dhawangale/DSA/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Krishna-Dhawangale/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Krishna-Dhawangale/DSA/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krishna-Dhawangale/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Krishna-Dhawangale/DSA/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/Krishna-Dhawangale/DSA/tree/master/0547-number-of-provinces) |
 ## Game Theory
 |  |
 | ------- |
@@ -373,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Krishna-Dhawangale/DSA/tree/master/0239-sliding-window-maximum) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Krishna-Dhawangale/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
