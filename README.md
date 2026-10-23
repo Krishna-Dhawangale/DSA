@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna-Dhawangale/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/Krishna-Dhawangale/DSA/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/Krishna-Dhawangale/DSA/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Krishna-Dhawangale/DSA/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/Krishna-Dhawangale/DSA/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Krishna-Dhawangale/DSA/tree/master/0503-next-greater-element-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna-Dhawangale/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Krishna-Dhawangale/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Krishna-Dhawangale/DSA/tree/master/0547-number-of-provinces) |
 ## Greedy
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Krishna-Dhawangale/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krishna-Dhawangale/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Krishna-Dhawangale/DSA/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Krishna-Dhawangale/DSA/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Krishna-Dhawangale/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Krishna-Dhawangale/DSA/tree/master/0547-number-of-provinces) |
 ## Binary Tree
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krishna-Dhawangale/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Krishna-Dhawangale/DSA/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Krishna-Dhawangale/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Krishna-Dhawangale/DSA/tree/master/0547-number-of-provinces) |
 ## Game Theory
 |  |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Krishna-Dhawangale/DSA/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/Krishna-Dhawangale/DSA/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/Krishna-Dhawangale/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Krishna-Dhawangale/DSA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Krishna-Dhawangale/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
