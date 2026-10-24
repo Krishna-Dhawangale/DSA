@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Krishna-Dhawangale/DSA/tree/master/0877-stone-game) |
 | [1925-count-square-sum-triples](https://github.com/Krishna-Dhawangale/DSA/tree/master/1925-count-square-sum-triples) |
+| [2409-count-days-spent-together](https://github.com/Krishna-Dhawangale/DSA/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishna-Dhawangale/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Krishna-Dhawangale/DSA/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krishna-Dhawangale/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Krishna-Dhawangale/DSA/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Krishna-Dhawangale/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Krishna-Dhawangale/DSA/tree/master/2409-count-days-spent-together) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Krishna-Dhawangale/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishna-Dhawangale/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishna-Dhawangale/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
