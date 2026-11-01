@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Krishna-Dhawangale/DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/0896-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/Krishna-Dhawangale/DSA/tree/master/0994-rotting-oranges) |
 | [1089-duplicate-zeros](https://github.com/Krishna-Dhawangale/DSA/tree/master/1089-duplicate-zeros) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Krishna-Dhawangale/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishna-Dhawangale/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Krishna-Dhawangale/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Krishna-Dhawangale/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Krishna-Dhawangale/DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Krishna-Dhawangale/DSA/tree/master/0994-rotting-oranges) |
 ## Game Theory
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Krishna-Dhawangale/DSA/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Krishna-Dhawangale/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Krishna-Dhawangale/DSA/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Krishna-Dhawangale/DSA/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Krishna-Dhawangale/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Krishna-Dhawangale/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
